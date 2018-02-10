@@ -1,0 +1,14 @@
+{
+  "name": "digi-diss/digi-diss",
+  "description": "digiDiss: Exhibit toy Wordpress Plugin",
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.3.2",
+    "composer/installers": "v1.0.6",
+  }
+}
+/*"phpunit/phpunit": ">=5.1",
+},
+"require-dev": {
+"phpunit/phpunit-selenium": "~3.0"
+}*/
